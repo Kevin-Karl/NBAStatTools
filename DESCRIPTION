@@ -1,0 +1,13 @@
+Package: NBAStatTools
+Title: Stat Leaders by Year
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Kevin",
+           family = "Karl",
+           role = c("aut", "cre"),
+           email = "kek2180@columbia.edu")
+Description: This package contains functions that take a year as input and return the leaders in that statistical category for that year. It includes a full NBA stats dataset.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
